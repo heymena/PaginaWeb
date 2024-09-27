@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noticias de México</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffe4e1; /* Aquí cambias el color de fondo */
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .news-item {
+            margin-bottom: 30px;
+        }
+        .news-item h2 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .news-item p {
+            color: #666;
+        }
+        .news-item img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Noticias de México</h1>
+
+        <div class="news-item">
+            <h2>Noticia 1:BTS visitó México</h2>
+            <p>la banda está actualmente en pausa debido al servicio militar. Jin completó su servicio en junio pasado, mientras que j-hope está previsto para finalizar en octubre próximo. El resto de los miembros de la agrupación terminarán su servicio en junio de 2025.</p>
+            <img src="C:\Users\ST\Downloads\BTS.jpeg" alt="Descripción de la imagen 1">
+        </div>
+
+        <div class="news-item">
+            <h2>Noticia 2: Anaya vs AMLO</h2>
+            <p>Anaya vs AMLO
+                Desde el pasado fin de semana, El Heraldo de México difundió los videos del ex candidato presidencial, Ricardo Anaya, denunciando persecución política luego que la Fiscalía General de la República (FGR) le notificó de una audiencia por sus presuntos vínculos con una red criminal que se benefició con pagos ilícitos para aprobar la Reforma Energética en el sexenio de Enrique Peña Nieto.</p>
+            <img src="https://heraldodemexico.com.mx/u/fotografias/m/2021/8/27/f768x400-413288_457191_5050.jpg" alt="Descripción de la imagen 2">
+        </div>
+
+        <div class="news-item">
+            <h2>Noticia 3: Bloquea CNTE a AMLO</h2>
+            <p>La conferencia matutina del presidente Andrés Manuel López Obrador de este viernes fue por decir lo menos inusual. Y es que un grupo que se identificó como integrado por maestros de la CNTE, retuvo al mandatario dos horas y media y le impidió comparecer ante los medios en Chiapas.</p>
+            <img src="https://heraldodemexico.com.mx/u/fotografias/m/2021/8/27/f960x540-413280_487355_5050.jpg" alt="Descripción de la imagen 3">
+        </div>
+
+        <div class="news-item">
+            <h2>Noticia 4: Sánchez Cordero sale de Gobernación</h2>
+            <p>Al medio día del jueves el rumor comenzó a correr como pólvora por las redes sociales. El Heraldo de México pudo confirmar, antes que el senador Ricardo Monreal lo hiciera oficial, que Olga Sánchez Cordero dejaba la secretaría de Gobernación para retomar su escaño en el Senado..</p>
+            <img src="https://heraldodemexico.com.mx/u/fotografias/m/2021/8/26/f768x400-413007_456910_5050.jpg" alt="Descripción de la imagen 4">
+        </div>
+
+        <div class="news-item">
+            <h2>Noticia 5: Cambia fecha de liberación del sistema de prisiones de EU de Osiel Cárdenas a "desconocida"</h2>
+            <p>Osiel Cárdenas Guillén, excabecilla del Cártel del Golfo, quien purga una condena de 25 años en EU, aparece con fecha de liberación "desconocida", según su ficha en el Buró Federal de Prisiones estadounidense (BOP). Un día antes la fecha aparecía para este viernes; no obstante, podría quedar bajo custodia de otro sistema de justicia.</p>
+            <img src="https://www.eluniversal.com.mx/resizer/v2/ST2NNCAPWJE3FKKZFG5DZZ36RI.jpg?auth=a15e5ce554e1b4b4acc155ab1c967dfbfb4e95ec2306ae72a57f2ad77ad88663&smart=true&width=1100&height=666" alt="Descripción de la imagen 5">
+        </div>
+    </div>
+
+</body>
+</html>
